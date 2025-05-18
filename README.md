@@ -190,7 +190,7 @@ The system automatically saves:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
-- Your Name - Initial work
+- Your Name - All Developers
 
 ## 🙏 Acknowledgments
 - Thanks to all contributors
